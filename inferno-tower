@@ -1,0 +1,8 @@
+BASE:
+Hitpoints:1748
+Damage:43-847
+Damage/sec:107-2117
+targets:air & ground
+Hit speed:0.4sec
+Range:6
+lifetime:30sec

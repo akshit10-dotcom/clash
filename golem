@@ -1,0 +1,11 @@
+BASE:
+Hitpoints:5120
+Damage:312
+Death damage:225
+Damage/sec:124
+targets:Buildings
+deploy time:3sec
+glolemite level:11
+Hit speed:2.5sec
+Speed:Slow
+range:Melee:Short

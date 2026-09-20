@@ -1,0 +1,14 @@
+BASE:
+Hitpoints:1313
+spawn on death:Goblin X2
+spawn speed:3sec
+goblin level:11
+lifetime:10sec
+
+EVO:
+Hitpoints:1313
+spawn on death:Goblin X2
+spawn speed:3sec
+goblin level:11
+lifetime:10sec
+activation:66%,33%

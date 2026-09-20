@@ -1,0 +1,10 @@
+BASE:
+Area damage:186
+Hitpoints:1300
+hit speed:1.1sec
+targets:Ground
+speed:Medium
+range:5
+activation:50%
+charge targets:Buildings
+charge speed:very fast

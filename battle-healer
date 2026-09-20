@@ -1,0 +1,10 @@
+BASE:
+Hitpoints:1920
+Damage:268
+Damage/sec:134
+Hit speed:2sec
+Targets:Ground
+Speed:Medium
+Range:Melee:long
+Heal per attack:100
+Spawn Heal:200

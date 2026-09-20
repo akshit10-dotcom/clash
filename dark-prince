@@ -1,0 +1,25 @@
+BASE:
+Charge Damage:532
+Damage/sec:190
+Hitpoints:1200
+Shield Hitpoints:240
+Area Damage:266
+Targets:Ground
+Hit speed:1.4sec
+Speed:Medium
+Range:Melee:Medium
+
+HERO:
+Charge Damage:532
+Damage/sec:190
+Hitpoints:1200
+Shield Hitpoints:240
+Area Damage:266
+Targets:Ground
+Hit speed:1.4sec
+Speed:Medium
+Range:Melee:Medium
+
+Destructive Dismount:
+Spawn Damage:307
+Rhino Level:11

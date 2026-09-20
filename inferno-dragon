@@ -1,0 +1,19 @@
+BASE:
+Hitpoints:1295
+Damage:35-422
+Damage/sec:87-1055
+Hit speed:0.4sec
+Range:3.5
+targets:Air & Ground
+Speed:Medium
+Charged Duration:7sec
+
+EVO:
+Hitpoints:1295
+Damage:35-422
+Damage/sec:87-1055
+Hit speed:0.4sec
+Range:3.5
+targets:Air & Ground
+Speed:Medium
+Charged Duration:7sec

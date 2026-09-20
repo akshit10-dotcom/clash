@@ -1,0 +1,8 @@
+BASE:
+Hitpoints:230
+Damage:107
+Hit speed:1.2sec
+Range:2.5
+targets:air & ground
+Speed:Fast
+Count:3

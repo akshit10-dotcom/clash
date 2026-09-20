@@ -1,0 +1,19 @@
+BASE:
+Damage:842
+Damage/sec:467
+Hitpoints:3760
+Hit Speed:1.8sec
+Targets:Ground
+Speed:Slow
+Range:Melee:Medium
+
+EVO:
+Damage:842
+Damage/sec:467
+Hitpoints:3760
+Hit Speed:1.8sec
+Targets:Ground
+Speed:Slow
+Range:Melee:Medium
+Heal per death:168-606
+Max Hitpoints:5640

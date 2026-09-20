@@ -1,0 +1,9 @@
+BASE:
+Hitpoints:1052
+Damage:217
+damage/sec:217
+phoenix egg level:11
+Hit speed:1sec
+targets:air & ground
+Speed:Medium
+range:melee:long

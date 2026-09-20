@@ -1,0 +1,8 @@
+BASE:
+Hitpoints:215
+Damage:110
+duration:1sec
+healing:400
+targets:Air & Ground
+Range:2.5
+Speed:Very fast

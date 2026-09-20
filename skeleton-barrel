@@ -1,0 +1,17 @@
+BASE:
+Hitpoints:532
+Death damage:145
+Speed:Fast
+skeleton count:7
+targets:buildings
+skeleton level:11
+
+EVO:
+Hitpoints:532
+Death damage:145
+Speed:Fast
+skeleton count:7
+targets:buildings
+skeleton level:11
+barrel count:X2
+activation:75%

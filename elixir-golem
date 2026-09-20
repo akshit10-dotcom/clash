@@ -1,0 +1,10 @@
+BASE:
+Hitpoints:1569
+Damage:253
+Damage/sec:230
+Elixer Golemite Level:11
+Elixer Blob Level:11
+Targets:Buildings
+Hit speed:1.1sec
+Speed:Slow
+Range:Melee:Short

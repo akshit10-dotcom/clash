@@ -1,0 +1,20 @@
+BASE:
+Hitpoints:837
+Damage:74
+damage/sec:61
+targets:buildings
+Hit speed:1.2sec
+Speed:Very fast
+Count:4
+range:melee:short
+
+EVO:
+Hitpoints:837
+Damage:74
+damage/sec:61
+targets:buildings
+Hit speed:1.2sec
+Speed:Very fast
+Count:4
+range:melee:short
+Landing damage:43

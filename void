@@ -1,0 +1,9 @@
+BASE:
+damage 1 target:698
+2-4 targets:295
+5+ targets:153
+crown tower 1 target:97
+2-4 targets:51
+5+ targets:35
+duration:4sec
+radius:2.5

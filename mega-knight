@@ -1,0 +1,22 @@
+BASE:
+Hitpoints:3993
+Spawn Damage:430
+Jump damage:537
+Area Damage:268
+jump range:3.5-5
+targets:ground
+Hit speed:1.7sec
+Speed:Medium
+range:melee:medium
+
+EVO:
+Hitpoints:3993
+Damage:430
+Jump damage:537
+Area Damage:268
+jump range:3.5-5
+targets:ground
+Hit speed:1.7sec
+Speed:Medium
+range:melee:medium
+Knockback range:4

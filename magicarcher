@@ -1,0 +1,24 @@
+BASE:
+Area Damage:135
+Hitpoints:529
+Hit Speed:1.1sec
+Targets:Air & Ground
+Speed:Medium
+Range:7
+Projectile Range:11
+
+HERO:
+Area Damage:135
+Hitpoints:529
+Hit Speed:1.1sec
+Targets:Air & Ground
+Speed:Medium
+Range:7
+Projectile Range:11
+
+Triple Threat:
+Decoy Hitpoints:271
+Triple Shot Damage:46 X3
+Triple Shot Range:13.5
+Teleport Range:3.5
+Decoy Duration:7sec

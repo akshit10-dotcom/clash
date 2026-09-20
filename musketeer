@@ -1,0 +1,35 @@
+BASE:
+Hitpoints:721
+Damage:217
+Hit speed:1sec
+targets:air & ground
+Range:6
+Speed:Medium
+
+EVO:
+Hitpoints:721
+Damage:217
+Hit speed:1sec
+targets:air & ground
+Range:6
+Speed:Medium
+sniper ammo:3
+sniper damage:391
+sniper range:Infinite
+
+HERO:
+Hitpoints:721
+Damage:217
+Hit speed:1sec
+targets:air & ground
+Range:6
+Speed:Medium
+
+Trusty Turret:
+spawn damage:204
+turret hitpoints:1536
+turret damage:148
+hit speed:0.5sec
+targets:air & ground
+range:4
+lifetime:10 sec

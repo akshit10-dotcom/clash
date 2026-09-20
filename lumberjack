@@ -1,0 +1,18 @@
+BASE:
+Hitpoints:1282
+Damage:256
+damage/sec:320
+targets:ground
+Hit speed:0.8
+Speed:Very fast
+range:melee:short
+
+EVO:
+Hitpoints:1282
+Damage:256
+damage/sec:320
+targets:ground
+Hit speed:0.8
+Speed:Very fast
+range:melee:short
+ghost level:11

@@ -1,0 +1,9 @@
+BASE:
+Hitpoints:3361
+Damage:276
+Death damage:688
+damage/sec:212
+Hit speed:1.3sec
+Targets:ground
+Speed:Medium
+Range:Melee:Short

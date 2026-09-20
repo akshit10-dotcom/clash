@@ -1,0 +1,11 @@
+BASE:
+Hitpoints:3952
+Damage:184
+Reflected Damage:192
+Reflected tower dammage:97
+Damage/sec:102
+Targets:Buildings
+Hit speed:1.8
+Speed:Slow
+Range:Melee:Medium
+Stun duration:0.5 sec

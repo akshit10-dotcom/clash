@@ -1,0 +1,8 @@
+BASE:
+Hitpoints:1697
+Damage:317
+damage/sec:198
+targets:Buildings
+Hit speed:1.6sec
+Speed:Very fast
+Range:Melee:Short

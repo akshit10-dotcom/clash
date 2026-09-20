@@ -1,0 +1,17 @@
+BASE:
+Hitpoints:304
+Area Damage:212
+Hit speed:1.8sec
+Targets:Ground
+Range:4.5
+Speed:Medium
+
+EVO:
+Hitpoints:304
+Area Damage:212
+Hit speed:1.8sec
+Targets:Ground
+Range:4.5
+Speed:Medium
+Bounces:2
+Bounce Damage:212

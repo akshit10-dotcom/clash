@@ -1,0 +1,20 @@
+BASE:
+Hitpoints:727
+Damage:179
+Spawn speed:5sec
+Fire spirit level:11
+Hit speed:1.7sec
+Range:5.5
+Targets:Air & Ground
+Speed:Medium
+
+EVO:
+Hitpoints:727
+Damage:179
+Spawn speed:5sec
+Fire spirit level:11
+Hit speed:1.7sec
+Range:5.5
+Targets:Air & Ground
+Speed:Medium
+Hot spawn speed:2.4sec

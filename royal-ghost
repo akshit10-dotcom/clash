@@ -1,0 +1,19 @@
+BASE:
+Hitpoints:1210
+Damage:261
+damage/sec:145
+targets:ground
+Hit speed:1.8sec
+Speed:Fast
+range:melee:medium
+
+EVO:
+Hitpoints:1210
+Damage:261
+damage/sec:145
+targets:ground
+Hit speed:1.8sec
+Speed:Fast
+range:melee:medium
+spawn damage:81
+soldiers level:11

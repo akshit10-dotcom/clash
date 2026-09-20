@@ -1,0 +1,10 @@
+BASE:
+Hitpoints:529
+Damage:117
+damage/sec:50
+stun duration:0.5sec
+Hit speed:2.3sec
+targets:air & ground
+Range:4.5
+Speed:Medium
+Count:3

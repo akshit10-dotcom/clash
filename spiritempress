@@ -1,0 +1,8 @@
+BASE:
+hitpoints:1121
+damage:320
+hit speed:1.4sec
+targets:air & ground
+speed:medium
+range:5
+grounf elixer:3

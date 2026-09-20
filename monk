@@ -1,0 +1,13 @@
+BASE:
+Hitpoints:2214
+Damage:140
+combo damage:422
+damage/sec:175
+Hit speed:0.8sec
+targets:ground
+Speed:Medium
+range:melee:medium
+
+Pensive Protection:
+duration:4sec
+damage reduction:65%

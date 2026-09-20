@@ -1,0 +1,10 @@
+BASE:
+Hitpoints:883
+Damage:204
+targets:air & ground
+Hit speed:1.3sec
+Range:6
+Speed:Medium
+Count:3
+melee range:melee:Long
+melee damage:314

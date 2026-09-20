@@ -1,0 +1,9 @@
+BASE:
+Hitpoints:1920
+Damage:391
+damage/sec:279
+charge damage:783
+targets:ground
+Hit speed:1.4sec
+Speed:Medium
+range:melee:long

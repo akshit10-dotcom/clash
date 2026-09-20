@@ -1,0 +1,13 @@
+BASE:
+Hitpoints:2298
+Damage:204
+damage/sec:127
+targets:ground
+Hit speed:1.6sec
+Speed:Medium
+range:melee:medium
+
+Soul Summoning:
+min.skeleton count:6
+max.skeleton count:16
+skeletons level:11

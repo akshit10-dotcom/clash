@@ -1,0 +1,20 @@
+BASE:
+Hitpoints:1049
+Ranged Damage:192
+Chained Attacks:3
+Hit speed:2.1sec
+Stun Duration:0.5sec
+Range:3.5
+Targets:Air & Ground
+Speed:Medium
+
+EVO:
+Hitpoints:1049
+Ranged Damage:192
+Chained Attacks:Infinite
+Hit speed:2.1sec
+Stun Duration:0.5sec
+Range:3.5
+Targets:Air & Ground
+Speed:Medium
+Extra chain damage:64

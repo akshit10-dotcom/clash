@@ -1,0 +1,19 @@
+BASE:
+Hitpoints:837
+Ranged Damage:312
+Hit Speed:1.5sec
+Targets:Air & Ground
+Speed:Medium
+Range:Melee:Long
+
+HERO:
+Hitpoints:837
+Ranged Damage:312
+Hit Speed:1.5sec
+Targets:Air & Ground
+Speed:Medium
+Range:Melee:Long
+
+Wounding Warp:
+Teleport Range:Infinite
+Warp Damage:422

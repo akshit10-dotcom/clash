@@ -1,0 +1,22 @@
+BASE:
+Hitpoints:3968
+Damage:253
+damage/sec:168
+tagets:Buildings
+Hit speed:1.5sec
+Speed:Slow
+Range:Melee:Medium
+
+HERO:
+Hitpoints:3968
+Damage:253
+damage/sec:168
+tagets:Buildings
+Hit speed:1.5sec
+Speed:Slow
+Range:Melee:Medium
+
+Heroic Hurl:
+Landing damage:135
+Throw distance:9
+Stun duration:2sec

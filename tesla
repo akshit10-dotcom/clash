@@ -1,0 +1,20 @@
+BASE:
+Hitpoints:1182
+Damage:220
+damage/sec:200
+Hit speed:1.1sec
+Range:5.5
+targets:air & ground
+lifetime:25sec
+
+EVO:
+Hitpoints:1182
+Damage:220
+damage/sec:200
+Hit speed:1.1sec
+Range:5.5
+targets:air & ground
+lifetime:25sec
+pulse radius:6
+pulse damage:148
+pulse duration:0.5sec

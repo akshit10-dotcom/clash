@@ -1,0 +1,20 @@
+BASE:
+Hitpoints:1341
+Damage:384
+Damage/sec:274
+Tagets:Ground
+Hit speed:1.4sec
+Speed:Fast
+Count:2
+Range:Melee:Medium
+
+EVO:
+Hitpoints:1341
+Damage:384
+Damage/sec:274
+Tagets:Ground
+Hit speed:1.4sec
+Speed:Fast
+Count:2
+Range:Melee:Medium
+Spear Level:11

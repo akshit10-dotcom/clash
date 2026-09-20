@@ -1,0 +1,9 @@
+BASE:
+damage:371
+damage/sec:285
+hitpoints:1779
+hit speed:1.3sec
+targets:ground
+speed:fast
+range:melee:Medium
+parry cooldown:3.5sec

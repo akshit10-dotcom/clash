@@ -1,0 +1,18 @@
+BASE:
+Hitpoints:967
+Damage:286
+Charge Damage:573
+Barbarian Level:11
+Targets:Buildings
+Speed:Medium
+Range:Melee:Short
+
+EVO:
+Hitpoints:967
+Damage:286
+Charge Damage:573
+Barbarian Level:11
+Targets:Buildings
+Speed:Medium
+Range:Melee:Short
+Knockback Damage:212

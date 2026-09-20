@@ -1,0 +1,20 @@
+BASE:
+Hitpoints:885
+Damage:84 X10
+Hit speed:2.2sec
+Range:4
+targets:Air & Ground
+Speed:Medium
+Projectile range:6.5
+
+EVO:
+Hitpoints:885
+Damage:84 X10
+Hit speed:2.2sec
+Range:4
+targets:Air & Ground
+Speed:Medium
+Projectile range:6.5
+Net duration:3sec
+Net range:4
+Net cooldown:5sec

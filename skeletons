@@ -1,0 +1,18 @@
+BASE:
+Hitpoints:81
+Damage:81
+damage/sec:73
+targets:ground
+Hit speed:1.1sec
+Speed:Fast
+Count:3
+
+EVO:
+Hitpoints:81
+Damage:81
+damage/sec:73
+targets:ground
+Hit speed:1.1sec
+Speed:Fast
+Count:3
+Max count:8

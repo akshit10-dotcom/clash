@@ -1,0 +1,15 @@
+BASE:
+Hitpoints:215
+Damage:110
+Range:2.5
+Targets:Air & Ground
+Speed:Very fast
+Freeze Duration:1.1sec
+
+EVO:
+Hitpoints:215
+Damage:110
+Range:2.5
+Targets:Air & Ground
+Speed:Very fast
+Freeze Duration:1.1sec X2

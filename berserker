@@ -1,0 +1,25 @@
+BASE:
+Hitpoints:896
+Damage:102
+Damage/sec:170
+Hit speed:0.6sec
+Targets:Ground
+Speed:Fast
+Range:Melee:Short
+
+HERO:
+Hitpoints:896
+Damage:102
+Damage/sec:170
+Hit speed:0.6sec
+Targets:Ground
+Speed:Fast
+Range:Melee:Short
+
+Savage Survival:
+Hit Speed:0.2sec
+Speed:Ultra Fast
+Crown Tower Damage:-75%
+Damage:167
+Duration:3.5sec
+Minimum Hitpoints:1

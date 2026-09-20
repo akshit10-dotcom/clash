@@ -1,0 +1,18 @@
+BASE:
+Hitpoints:839
+Damage:135
+Hit speed:1.1
+Range:5.5
+Speed:Medium
+
+EVO:
+Area Damage:135
+Hitpoints:839
+Skeleton Level:11
+Spawn Speed:7sec
+Hit Speed:1.1sec
+Targets:Air & Ground
+Speed:Medium
+Range:5.5
+Heal per Skeleton:153
+Max Hitpoints:1451

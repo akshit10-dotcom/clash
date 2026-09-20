@@ -1,0 +1,10 @@
+BASE:
+Damage:194
+Dash Damage:389
+Damage/sec:194
+Hitpoints:906
+Dash Range:3.5-6
+Hit speed:1sec
+Targets:Ground
+Speed:Fast
+Range:Melee:Short

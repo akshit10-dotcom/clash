@@ -1,0 +1,11 @@
+BASE:
+damage:153
+damage/sec:102
+hitpoints:2816
+hit speed:1.5sec
+targets:buildings
+speed:medium
+range:melee:medium
+bonus damage:220
+enchant limit:2
+enchant range:7

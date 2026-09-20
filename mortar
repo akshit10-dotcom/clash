@@ -1,0 +1,18 @@
+BASE:
+Hitpoints:1369
+Damage:266
+Hit speed:4.7sec
+targets:ground
+Range:11.5
+lifetime:30sec
+deploy time:3.5sec
+
+EVO:
+Hitpoints:1369
+Damage:266
+Hit speed:4.7sec
+targets:ground
+Range:11.5
+lifetime:30sec
+deploy time:3.5sec
+goblin level:11

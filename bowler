@@ -1,0 +1,25 @@
+BASE:
+Area Damage:289
+Hitpoints:2081
+Hit Speed:2.5sec
+Targets:Ground
+Speed:Slow
+Range:4
+Projectile Range:7
+
+HERO:
+Area Damage:289
+Hitpoints:2081
+Hit Speed:2.5sec
+Targets:Ground
+Speed:Slow
+Range:4
+Projectile Range:7
+
+Stone Swish:
+Range:11.5
+Area Damage:384
+Crown Tower Damage:192
+Hit Speed:1.9sec
+Duration:7.3sec
+Cast Time:2.5sec

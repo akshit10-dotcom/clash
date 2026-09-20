@@ -1,0 +1,19 @@
+BASE:
+Area Damage:232
+Targets:Ground
+Width:2.6
+Range:4.5
+Barbarian Level:11
+
+HERO:
+Area Damage:232
+Targets:Ground
+Width:2.6
+Range:4.5
+Barbarian Level:11
+
+Rowdy Reroll:
+Range:3
+Area Damage:232
+Crown Tower Damage:116
+Damage Healed:50%

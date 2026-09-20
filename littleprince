@@ -1,0 +1,13 @@
+BASE:
+hitpoints:698
+ranged damage:104
+hit speed:1.2sec-0.4sed
+targets:air & ground
+speed:medium
+range:5.5
+
+Royal rescue:
+Charge damage:320
+hitpoints:1600
+damage:232
+hit speed:1.2sec

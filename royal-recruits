@@ -1,0 +1,22 @@
+BASE:
+Hitpoints:547
+Shield hitpoints:240
+Damage:133
+damage/sec:102
+Hit speed:1.3sec
+targets:ground
+Speed:Medium
+Count:6
+range:melee:long
+
+EVO:
+Hitpoints:547
+Shield hitpoints:240
+Damage:133
+damage/sec:102
+Hit speed:1.3sec
+targets:ground
+Speed:Medium
+Count:6
+range:melee:long
+charge damage:266

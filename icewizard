@@ -1,0 +1,25 @@
+BASE:
+Area Damage:89
+Spawn Damage:84
+Hitpoints:688
+Hit Speed:1.7sec
+Slowdown Duration:2.5sec
+Targets:Air & Ground
+Speed:Medium
+Range:5.5
+
+HERO:
+Area Damage:89
+Spawn Damage:84
+Hitpoints:688
+Hit Speed:1.7sec
+Slowdown Duration:2.5sec
+Targets:Air & Ground
+Speed:Medium
+Range:5.5
+
+Frosty Fella:
+Snowman Hitpoints:266
+Radius:2.5
+Freeze Duration:5sec
+Area Damage:89

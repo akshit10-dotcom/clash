@@ -1,0 +1,22 @@
+BASE:
+Hitpoints:330
+Damage:281
+targets:buildings
+Speed:Very fast
+Count:2
+range:melee:short
+
+EVO:
+Hitpoints:330
+Damage:281
+targets:buildings
+Speed:Very fast
+Count:2
+range:melee:short
+Runner[
+    hitpoints:163
+    area damage:184
+    speed:very fast
+    range:melee:short
+    targets:buildings
+]

@@ -1,0 +1,20 @@
+BASE:
+Area Damage:168
+Hitpoints:1152
+Damage:168
+Hit speed:1.5sec
+Targets:Air & Ground
+Range:3.5
+Speed:Fast
+
+EVO:
+Area Damage:168
+Hitpoints:1152
+Damage:168
+Hit speed:1.5sec
+Targets:Air & Ground
+Range:3.5
+Speed:Fast
+Speedup Allies:+30%
+Slowdown Enemies:-30%
+Wind Area:8X9

@@ -1,0 +1,18 @@
+BASE:
+Hitpoints:261
+Damage:168
+Hit speed:3
+Range:9
+Speed:Medium
+
+EVO:
+Area Damage:168
+Hitpoints:261
+Hit Speed:3sec
+Targets:Air & Ground
+Speed:Medium
+Range:9
+Deploy Time:1.2sec
+Death Damage:168
+Slowdown Duration:5.5sec
+Slowdown Radius:3

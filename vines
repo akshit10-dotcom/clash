@@ -1,0 +1,6 @@
+BASE:
+damage/sec:153
+crown tower damage/sec:35
+count:3
+duration:2sec
+radius:2.5

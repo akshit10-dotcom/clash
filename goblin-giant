@@ -1,0 +1,22 @@
+BASE:
+Hitpoints:3110
+Damage:176
+Damage/sec:117
+Spear goblin level:11
+Spear gobin count:2
+Hit speed:1.5sec
+Speed:Medium
+Targets:Buildings
+Range:Melee:Medium
+
+EVO:
+Hitpoints:3110
+Damage:176
+Damage/sec:117
+Spear goblin level:11
+Spear gobin count:2
+Spawn speed:2.2sec
+Hit speed:1.5sec
+Speed:Medium
+Targets:Buildings
+Range:Melee:Medium

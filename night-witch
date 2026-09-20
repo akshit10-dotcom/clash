@@ -1,0 +1,11 @@
+BASE:
+Hitpoints:906
+Damage:314
+damage/sec:241
+spawn on death:Bat X1
+bat level:11
+spawn speed:5sec
+targets:ground
+Hit speed:1.3sec
+Speed:Medium
+range:melee:long

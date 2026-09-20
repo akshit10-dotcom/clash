@@ -1,0 +1,21 @@
+BASE:
+Hitpoints:529
+spawns on death:skeletons X4
+skeleton level:11
+spawn speed:4sec
+lifetime:30sec
+
+HERO:
+Hitpoints:529
+spawns on death:skeletons X4
+skeleton level:11
+spawn speed:4sec
+lifetime:30sec
+
+Regal revival:
+damage:422
+hitpoints:4224
+hit speed:2.1sec
+targets:buildings
+speed:Medium
+spawn on death:skeletons X4

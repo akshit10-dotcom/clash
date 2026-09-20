@@ -1,0 +1,22 @@
+BASE:
+Damage:755
+Damage/sec:471
+Hitpoints:1390
+Hit Speed:1.6sec
+Targets:Ground
+Speed:Fast
+Range:Melee:Short
+
+HERO:
+Damage:755
+Damage/sec:471
+Hitpoints:1390
+Hit Speed:1.6sec
+Targets:Ground
+Speed:Fast
+Range:Melee:Short
+
+Breakfast Boost:
+Cooking Time:4sec-22sec
+Bonus Levels:+1 to +5
+Damage Healed:30%

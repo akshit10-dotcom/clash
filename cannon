@@ -1,0 +1,17 @@
+BASE:
+Hitpoints:824
+Ranged Damage:202
+Hit speed:1sec
+Targets:Ground
+Range:5.5
+Lifetime:30sec
+
+EVO:
+Hitpoints:824
+Ranged Damage:202
+Hit speed:1sec
+Targets:Ground
+Range:5.5
+Lifetime:30sec
+Barrage Damage:281
+Barrage Radius:2

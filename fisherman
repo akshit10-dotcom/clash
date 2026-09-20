@@ -1,0 +1,9 @@
+BASE:
+Hitpoints:870
+Damage:194
+Ranged Attack range:3.5-7
+Damage/sec:149
+Hit speed:1.3sec
+Range:Melee:Medium
+Targets:Ground
+Speed:Medium

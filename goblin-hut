@@ -1,0 +1,8 @@
+BASE:
+Hitpoints:1180
+Spear goblin level:11
+Spawn speed:2.2sec
+Targets:Air & Grouund
+Range:6
+Lifetime:30sec
+Spawn on death:Spear goblin X2

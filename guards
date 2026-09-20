@@ -1,0 +1,10 @@
+BASE:
+Hitpoints:81
+Shield hitpoints:256
+Damage:117
+Damage/sec:117
+Hit speed:1sec
+target:Ground
+Speed:Fast
+Count:3
+Range:Melee:Long

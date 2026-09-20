@@ -1,0 +1,19 @@
+BASE:
+Hitpoints:304
+Damage:112
+Hit speed:0.9sec
+Targets:Air & Ground
+Range:5
+Speed:Medium
+Count:2
+
+EVO:
+Hitpoints:304
+Damage:112
+Hit speed:0.9sec
+Targets:Air & Ground
+Range:6
+Speed:Medium
+Count:2
+Power Shot Damage:140
+Power Shot Range:4.5-6

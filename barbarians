@@ -1,0 +1,21 @@
+BASE:
+Hitpoints:716
+Damage:192
+Damage/sec:137
+Hit speed:1.4
+Targets:Ground
+Speed:Medium
+Range:Melee:Short
+Count:5
+
+EVO:
+Hitpoints:716
+Damage:192
+Damage/sec:137
+Hit speed:1.4
+Targets:Ground
+Speed:Medium
+Range:Melee:Short
+Count:5
+Boost Duration:5sec
+Boost:+30%

@@ -1,0 +1,9 @@
+BASE:
+Hitpoints:529
+Damage:133
+Hit speed:1sec
+Range:5.5
+target:air & ground
+Speed:Medium
+effect duration:0.5sec
+cursed hog level:11

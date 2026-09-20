@@ -1,0 +1,13 @@
+BASE:
+Hitpoints:1799
+Damage:161
+damage/sec:178
+targets:ground
+Hit speed:0.9sec
+Speed:Medium
+Range:Melee:Medium
+
+Dashing Dash:
+Dash distance:5.5
+Dash damage:335
+Max. dashes:10

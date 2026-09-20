@@ -1,0 +1,9 @@
+BASE:
+Damage:117 X2
+Spawn Damage:192
+Hitpoints:714
+Hit Speed:1.8sec
+Stun Duration:0.5sec
+Targets:Air & Ground
+Speed:Fast
+Range:5

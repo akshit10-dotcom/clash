@@ -1,0 +1,9 @@
+BASE:
+Damage:232
+damage/sec:193
+hitpoints:2265
+hit speed:1.2sec
+targets:Ground
+speed:Medium
+range:melee:Medium
+rocket level:11

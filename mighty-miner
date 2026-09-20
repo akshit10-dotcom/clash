@@ -1,0 +1,12 @@
+BASE:
+Hitpoints:2250
+Damage:43-409
+damage/sec:107-1022
+Hit speed:0.4sec
+targets:ground
+Speed:Medium
+range:melee:Medium
+
+Explosive Escape:
+Area damage:332
+targets:air & ground

@@ -1,0 +1,17 @@
+BASE:
+Hitpoints:304
+Ranged Damage:64 X5
+Hit speed:3sec
+Range:6
+Targets:Air & Ground
+Speed:Fast
+
+EVO:
+Hitpoints:304
+Ranged Damage:64 X5
+Hit speed:3sec
+Range:6
+Targets:Air & Ground
+Speed:Fast
+Damage/sec:192
+Crown Tower Damage/sec:12

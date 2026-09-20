@@ -1,0 +1,16 @@
+BASE:
+Hitpoints:780
+Goblin brawler count:1
+Spawn on death:Goblin brawler X1
+Goblin Brawler level:11
+Lifetime:20sec
+
+EVO:
+Hitpoints:780
+Goblin brawler count:1
+Spawn on death:Goblin brawler X1
+Goblin Brawler level:11
+Lifetime:20sec
+Capture range:3
+Damage/sec:366
+Targets:Ground

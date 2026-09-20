@@ -1,0 +1,11 @@
+BASE:
+Hitpoints:1766
+Damage:250
+charge damage:501
+damage/sec:147
+targets:buildings
+rider count:1
+Hit speed:1.7zec
+Range:5.5
+Speed:Medium
+range:melee:short

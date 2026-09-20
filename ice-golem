@@ -1,0 +1,25 @@
+BASE:
+Hitpoints:1228
+Damage:84
+damage/sec:33
+death damage:84
+Hit speed:2.5sec
+targets:buildings
+Speed:Slow
+range:melee:short
+
+HER0:
+Hitpoints:1228
+Damage:84
+damage/sec:33
+death damage:84
+Hit speed:2.5sec
+targets:buildings
+Speed:Slow
+range:melee:short
+
+Snowstorm:
+Blizzard radius:4
+Damage per blast:69
+blasts:3
+Slowdown duration:2sec

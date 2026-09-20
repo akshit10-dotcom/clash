@@ -1,0 +1,7 @@
+BASE:
+Damage/sec:35
+Crown Tower Damage/sec:10
+Slowdown enemies:-15%
+goblin level:11
+duration:6sec
+radius:3

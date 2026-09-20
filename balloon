@@ -1,0 +1,26 @@
+BASE:
+Hitpoints:1676
+Damage/sec:320
+Damage:640
+Death damage:240
+Hit speed:2sec
+Targets:Buildings
+Speed:Medium
+Range:Melee:Short
+
+HERO:
+Hitpoints:1676
+Damage/sec:320
+Damage:640
+Death damage:240
+Hit speed:2sec
+Targets:Buildings
+Speed:Medium
+Range:Melee:Short
+
+Coffin Cadets:
+Range:6.5
+Landing Damage:230
+Crown Tower Damage:25
+Tragets:Ground
+Skeletroopers Level:11

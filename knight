@@ -1,0 +1,32 @@
+BASE:
+Hitpoints:1766
+Damage:202
+damage/sec:168
+targets:Ground
+Hit speed:1.2sec
+Speed:Medium
+range:melee:medium
+
+EVO:
+Hitpoints:1766
+Damage:202
+damage/sec:168
+targets:Ground
+Hit speed:1.2sec
+Speed:Medium
+range:melee:medium
+damage reduction:60%
+
+HERO:
+Hitpoints:1766
+Damage:202
+damage/sec:168
+targets:Ground
+Hit speed:1.2sec
+Speed:Medium
+range:melee:medium
+
+Triumphant Taunt:
+Shield Hitpoints:512
+Taunt Radius:6.5
+Taunt duration:4sec

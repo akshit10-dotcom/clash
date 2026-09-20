@@ -1,0 +1,19 @@
+BASE:
+Hitpoints:1280
+Area Damage:179 X2
+Hit speed:2.4sec
+Targets:Air & Ground
+Range:4.5
+Speed:Medium
+Projectile range:7
+
+EVO:
+Hitpoints:1280
+Area Damage:179 X2
+Hit speed:2.4sec
+Targets:Air & Ground
+Range:4.5
+Speed:Medium
+Projectile range:7
+Close quarters damage:240 X2
+close quarters range:2.5

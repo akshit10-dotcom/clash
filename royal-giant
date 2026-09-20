@@ -1,0 +1,16 @@
+BASE:
+Hitpoints:3164
+Damage:307
+Hit speed:1.8
+targets:buildings
+Range:5
+Speed:Slow
+
+EVO:
+Hitpoints:3164
+Damage:307
+Hit speed:1.8
+targets:buildings
+Range:5
+Speed:Slow
+recoil damage:81

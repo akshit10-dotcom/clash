@@ -1,0 +1,25 @@
+BASE:
+Hitpoints:202
+Damage:125
+damage/sec:113
+Hit speed:1.1sec
+Speed:Very fast
+targets:Ground
+Count:4
+Range:Melee:Short
+
+HERO:
+Hitpoints:202
+Damage:125
+damage/sec:113
+Hit speed:1.1sec
+Speed:Very fast
+targets:Ground
+Count:4
+Range:Melee:Short
+
+Banner brigade:
+Cooldown:single use
+Brigade count:2
+Brigade level:11
+Banner lifetime:5sec

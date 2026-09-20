@@ -1,0 +1,8 @@
+BASE:
+Hitpoints:1600
+Damage:58
+Hit speed:0.4sec
+targets:ground
+Range:11.5
+deploy time:3.5sec
+lifetime:30sec

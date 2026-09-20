@@ -1,0 +1,19 @@
+BASE:
+Hitpoints:261
+Ranged Damage:151
+Hit speed:0.8sec
+Targets:Ground & Air
+Range:6.5
+Speed:Very fast
+
+EVO:
+Hitpoints:261
+Ranged Damage:151
+Hit speed:0.8sec
+Targets:Ground & Air
+Range:6.5
+Speed:Very fast
+Poison Damage/sec:64-307
+Poison Radius:1.5
+Crown Tower Damage:15-76
+Poison Duration:1sec

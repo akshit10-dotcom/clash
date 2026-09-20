@@ -1,0 +1,6 @@
+BASE:
+Damage/sec:93
+Crown Tower damage:21
+slowdown enemies:-15%
+Spell radius:3.5
+Duration:8sec

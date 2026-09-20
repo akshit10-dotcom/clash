@@ -1,0 +1,6 @@
+BASE:
+hitpoints:81
+bush goblin count:2
+targets:buildings
+bush goblin level:11
+speed:medium

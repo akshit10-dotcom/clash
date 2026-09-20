@@ -1,0 +1,31 @@
+BASE:
+Hitpoints:755
+Damage:304
+targets:air & ground
+Hit speed:1.4sec
+Range:5.5
+Speed:Medium
+
+EVO:
+Hitpoints:755
+Damage:304
+targets:air & ground
+Hit speed:1.4sec
+Range:5.5
+Speed:Medium
+shield hitpoints:176
+explosion damage:281
+
+HERO:
+Hitpoints:755
+Damage:304
+targets:air & ground
+Hit speed:1.4sec
+Range:5.5
+Speed:Medium
+
+Fiery Flight:
+flight duration:3.5sec
+tornado radius:4
+tornado damage:43
+flight speed:+50%

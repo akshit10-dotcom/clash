@@ -1,0 +1,20 @@
+BASE:
+Hitpoints:230
+Ranged Damage:107
+Hit Speed:1.2sec
+Targets:Air & Ground
+Speed:Fast
+Range:2.5
+Count:6
+
+EVO:
+Hitpoints:230
+Ranged Damage:107
+Hit Speed:1.2sec
+Targets:Air & Ground
+Speed:Fast
+Range:2.5
+Count:6
+Invinsibility Duration:3sec
+Speed Slowdown:-33%
+Hit Speed Slowdown:-33%
