@@ -20,6 +20,6 @@ Hit speed:1.4sec
 Speed:Medium
 Range:Melee:Medium
 
-Destructive Dismount:
+Destructive Dismount:Dismounts doing damage,attacking on foot while rhino charges buildings
 Spawn Damage:307
 Rhino Level:11

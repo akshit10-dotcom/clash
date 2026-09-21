@@ -18,7 +18,7 @@ targets:buildings
 Speed:Slow
 range:melee:short
 
-Snowstorm:
+Snowstorm:Conjures a blizzard that damages and slows enemies
 Blizzard radius:4
 Damage per blast:69
 blasts:3

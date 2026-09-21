@@ -8,6 +8,6 @@ targets:ground
 Speed:Medium
 range:melee:medium
 
-Pensive Protection:
+Pensive Protection:Takes less damage while deflecting back at the opponent!
 duration:4sec
 damage reduction:65%

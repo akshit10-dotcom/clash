@@ -16,7 +16,7 @@ Hit speed:1.5sec
 Speed:Slow
 Range:Melee:Medium
 
-Heroic Hurl:
+Heroic Hurl:Throws the highest hitpoint enemy troop in reach across the arena
 Landing damage:135
 Throw distance:9
 Stun duration:2sec

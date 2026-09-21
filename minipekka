@@ -16,7 +16,7 @@ Targets:Ground
 Speed:Fast
 Range:Melee:Short
 
-Breakfast Boost:
+Breakfast Boost:Eats pancakes to level up.The longer you wait, the more pancakes he cooks!
 Cooking Time:4sec-22sec
 Bonus Levels:+1 to +5
 Damage Healed:30%

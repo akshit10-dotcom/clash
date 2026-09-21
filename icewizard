@@ -18,7 +18,7 @@ Targets:Air & Ground
 Speed:Medium
 Range:5.5
 
-Frosty Fella:
+Frosty Fella:Spawns a snowman & freezes nearby enemies who can only be released upon its defeat
 Snowman Hitpoints:266
 Radius:2.5
 Freeze Duration:5sec

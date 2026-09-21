@@ -8,3 +8,9 @@ Hit speed:1.1sec
 Targets:Ground
 Speed:Fast
 Range:Melee:Short
+
+Gateway Grenade:Briefly becomes invisible and teleports backwards!
+Cooldown:3sec
+Grenade:2
+Teleport Range:6
+Invisibility Duration:1sec

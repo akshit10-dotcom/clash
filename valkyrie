@@ -25,7 +25,7 @@ Targets:Ground
 Speed:Medium
 Range:Melee:Medium
 
-Wild Whirlwind:
+Wild Whirlwind:Whirls her way to nearby enemies,spinning and slicing, but still taking damage
 Dash Distance:5.5
 Damage/sec:388
 Crown Tower Damage/sec:192

@@ -14,6 +14,6 @@ Targets:Air & Ground
 Speed:Medium
 Range:Melee:Long
 
-Wounding Warp:
+Wounding Warp:Warps to the lowest hitpoint enemy & deals damage before darting back
 Teleport Range:Infinite
 Warp Damage:422

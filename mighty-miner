@@ -7,6 +7,6 @@ targets:ground
 Speed:Medium
 range:melee:Medium
 
-Explosive Escape:
+Explosive Escape:Mines underground to the opposite lane, leaving a bomb at the original location.Surprise!
 Area damage:332
 targets:air & ground

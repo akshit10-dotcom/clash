@@ -6,7 +6,7 @@ targets:air & ground
 speed:medium
 range:5.5
 
-Royal rescue:
+Royal rescue:Guardian charges into battle, dealing charge damage and pushing enemies back!
 Charge damage:320
 hitpoints:1600
 damage:232

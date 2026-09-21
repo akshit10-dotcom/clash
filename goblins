@@ -18,7 +18,7 @@ targets:Ground
 Count:4
 Range:Melee:Short
 
-Banner brigade:
+Banner brigade:The last goblin standing drops a banner that calls in reinforcements
 Cooldown:single use
 Brigade count:2
 Brigade level:11

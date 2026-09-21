@@ -17,7 +17,7 @@ Speed:Medium
 range:melee:medium
 damage reduction:60%
 
-HERO:
+HERO:Gains a shield and taunts nearby enemies, forcing them to attack him
 Hitpoints:1766
 Damage:202
 damage/sec:168
