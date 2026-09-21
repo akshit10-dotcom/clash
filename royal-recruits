@@ -10,6 +10,7 @@ Count:6
 range:melee:long
 
 EVO:
+Cycle:1
 Hitpoints:547
 Shield hitpoints:240
 Damage:133

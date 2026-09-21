@@ -9,6 +9,7 @@ Range:Melee:Medium
 Count:5
 
 EVO:
+Cycle:2
 Hitpoints:122
 Damage:81
 Damage/sec:67

@@ -8,6 +8,7 @@ targets:air & ground
 lifetime:25sec
 
 EVO:
+Cycle:2
 Hitpoints:1182
 Damage:220
 damage/sec:200

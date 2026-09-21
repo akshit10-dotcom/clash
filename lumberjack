@@ -8,6 +8,7 @@ Speed:Very fast
 range:melee:short
 
 EVO:
+Cycle:2
 Hitpoints:1282
 Damage:256
 damage/sec:320

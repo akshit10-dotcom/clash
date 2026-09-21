@@ -7,6 +7,7 @@ Range:5.5
 Lifetime:30sec
 
 EVO:
+Cycle:2
 Hitpoints:824
 Ranged Damage:202
 Hit speed:1sec

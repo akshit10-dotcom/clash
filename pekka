@@ -8,6 +8,7 @@ Speed:Slow
 Range:Melee:Medium
 
 EVO:
+Cycle:1
 Damage:842
 Damage/sec:467
 Hitpoints:3760

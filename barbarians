@@ -9,6 +9,7 @@ Range:Melee:Short
 Count:5
 
 EVO:
+Cycle:1
 Hitpoints:716
 Damage:192
 Damage/sec:137

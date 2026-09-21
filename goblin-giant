@@ -10,6 +10,7 @@ Targets:Buildings
 Range:Melee:Medium
 
 EVO:
+Cycle:1
 Hitpoints:3110
 Damage:176
 Damage/sec:117

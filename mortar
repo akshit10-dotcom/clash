@@ -8,6 +8,7 @@ lifetime:30sec
 deploy time:3.5sec
 
 EVO:
+Cycle:2
 Hitpoints:1369
 Damage:266
 Hit speed:4.7sec

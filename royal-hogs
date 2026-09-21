@@ -9,6 +9,7 @@ Count:4
 range:melee:short
 
 EVO:
+Cycle:2
 Hitpoints:837
 Damage:74
 damage/sec:61

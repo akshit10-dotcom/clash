@@ -6,6 +6,7 @@ goblin level:11
 lifetime:10sec
 
 EVO:
+Cycle:2
 Hitpoints:1313
 spawn on death:Goblin X2
 spawn speed:3sec
